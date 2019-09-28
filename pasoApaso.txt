@@ -1,0 +1,27 @@
+creamos la carperta con el nombre del proyecto
+instalamos framework express
+instalamos la integracion del motor de plantillas express-handlebars
+instalar express-session
+
+modulo db mysql
+
+instalar modulo para guardar la session en la base de datos
+
+instalamos morgan nos permite ver las peticiones http que van llegando por  el servidor
+
+instalamos para cifrar las contraseñas de los usuarios install bcryptjs
+
+instalamos el modulo para autenticar passport y passport-local
+
+instalamos timeago.js convierte formato de fecha 
+
+instalamos connect-flash para los mensajes de error y exito al usuario connect-flash
+
+por ultimo instalamos para validar los datos que el usuario nos envia desde la aplicación cliente express-validator
+
+instalamos el modulo de desarrollo nodemon para evitar estar ejecutando nuestro servidor cada vez que cambiamos algo en nuestro archivo npm i nodemon -D
+
+
+
+
+
